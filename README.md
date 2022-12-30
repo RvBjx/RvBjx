@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @RvBjx aka Roman
-- 👀 I’m interested in Blender, programming and gaming
+- 👋 Hi, I’m Roman, a 14 yo hobby coder from Switzerland
+- 👀 I’m interested in programming, gaming and a lot more non-tech things
 - 🌱 I’m currently improving my abilities in python
-- 🎞 My github site: https://thelordoftec.github.io/
