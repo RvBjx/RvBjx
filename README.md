@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Roman, a 17 y.o. hobby coder from Switzerland
-- 👀 I’m interested in programming, gaming and a lot more non-tech things
+Roman Bühlmann, 17, Based in Switzerland
