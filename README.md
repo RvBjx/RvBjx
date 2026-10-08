@@ -1,1 +1,1 @@
-Roman Bühlmann, 17, Based in Switzerland
+Roman Bühlmann, 18, Based in Switzerland
